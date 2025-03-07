@@ -61,6 +61,7 @@ h4 {
     transform: rotate(0deg);
     top: 2%;
     background-size: 40vh, 70vh;
+    left: -400%;
   }
 
   h4 {
